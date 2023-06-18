@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ddcfb159cb17df43b54b04c3acc74b4, type: 3}
+  m_Name: Lvl-1.0
+  m_EditorClassIdentifier: 
+  questionLevel: 1
+  question: What is the primary purpose of a loop in programming?
+  questionImage: {fileID: 21300000, guid: 26069fdc12fa1fc46a819e7f387f959b, type: 3}
+  answerA: To store data temporarily
+  answerB: To repeat a sequence of instructions
+  answerC: To perform input/output operations
+  answerExplanation: Loops in programming are primarily used to repeat a set of instructions
+    iteratively until a specific condition is met. While the other options may occur
+    within a loop, they are not the primary purpose of a loop.
+  answer: 2
+  expectedTimeToAnswer: 17.5

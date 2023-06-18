@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ddcfb159cb17df43b54b04c3acc74b4, type: 3}
+  m_Name: Lvl-2.0
+  m_EditorClassIdentifier: 
+  questionLevel: 2
+  question: What is the term for a sequence of characters surrounded by quotation
+    marks in programming?
+  questionImage: {fileID: 21300000, guid: c3bcc9ad05cb5be4b9315decb0e4c077, type: 3}
+  answerA: String
+  answerB: Boolean
+  answerC: Spungbung
+  answerExplanation: In programming, a string is a data type used to represent a
+    sequence of characters, such as words or sentences. Strings are typically enclosed
+    in quotation marks (either single or double) to distinguish them from other types
+    of data.
+  answer: 1
+  expectedTimeToAnswer: 17.5

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ddcfb159cb17df43b54b04c3acc74b4, type: 3}
+  m_Name: Lvl-13.5
+  m_EditorClassIdentifier: 
+  questionLevel: 13.5
+  question: What is the term for a data structure that allows efficient insertion,
+    deletion, and retrieval of the minimum and maximum elements?
+  questionImage: {fileID: 0}
+  answerA: 'Heap '
+  answerB: Queue
+  answerC: Hash table
+  answerExplanation: A heap is a data structure that allows efficient insertion,
+    deletion, and retrieval of the minimum or maximum elements. It is commonly used
+    for priority queue implementations and often referred to as a binary heap.
+  answer: 1
+  expectedTimeToAnswer: 17.5

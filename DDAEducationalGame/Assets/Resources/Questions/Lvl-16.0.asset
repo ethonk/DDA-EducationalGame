@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ddcfb159cb17df43b54b04c3acc74b4, type: 3}
+  m_Name: Lvl-16.0
+  m_EditorClassIdentifier: 
+  questionLevel: 16
+  question: Which of the following is an example of a non-deterministic Turing machine?
+  questionImage: {fileID: 0}
+  answerA: Deterministic finite automaton
+  answerB: Pushdown automaton
+  answerC: Nondeterministic Turing machine
+  answerExplanation: A nondeterministic Turing machine is a theoretical computational
+    model that extends the capabilities of a deterministic Turing machine by allowing
+    multiple possible transitions from a given state. This introduces the notion
+    of multiple parallel computations.
+  answer: 3
+  expectedTimeToAnswer: 17.5

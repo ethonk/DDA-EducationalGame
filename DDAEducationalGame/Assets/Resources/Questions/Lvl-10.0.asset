@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ddcfb159cb17df43b54b04c3acc74b4, type: 3}
+  m_Name: Lvl-10.0
+  m_EditorClassIdentifier: 
+  questionLevel: 10
+  question: Which of the following algorithms is used to find the shortest path in
+    a weighted graph?
+  questionImage: {fileID: 21300000, guid: 35de1349cd6d46f4dbad82d1121e9e74, type: 3}
+  answerA: Depth-First Search (DFS)
+  answerB: Breadth-First Search (BFS)
+  answerC: Dijkstra's algorithm
+  answerExplanation: Dijkstra's algorithm is used to find the shortest path in a
+    weighted graph. It calculates the shortest path from a source node to all other
+    nodes in the graph, considering the weights of the edges. Depth-First Search
+    and Breadth-First Search are graph traversal algorithms.
+  answer: 3
+  expectedTimeToAnswer: 17.5

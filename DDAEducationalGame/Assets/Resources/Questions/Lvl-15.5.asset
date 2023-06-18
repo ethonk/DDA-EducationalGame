@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ddcfb159cb17df43b54b04c3acc74b4, type: 3}
+  m_Name: Lvl-15.5
+  m_EditorClassIdentifier: 
+  questionLevel: 15.5
+  question: What is the term for a technique in machine learning that involves training
+    models on large amounts of data to make predictions or take actions?
+  questionImage: {fileID: 0}
+  answerA: Reinforcement learning
+  answerB: Supervised learning
+  answerC: Deep learning
+  answerExplanation: Deep learning is a technique in machine learning that involves
+    training models on large amounts of data using artificial neural networks with
+    multiple layers. It is particularly effective in domains such as image recognition,
+    natural language processing, and speech recognition.
+  answer: 3
+  expectedTimeToAnswer: 17.5

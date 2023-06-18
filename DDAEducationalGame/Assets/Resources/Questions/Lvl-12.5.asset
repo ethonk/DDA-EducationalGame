@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ddcfb159cb17df43b54b04c3acc74b4, type: 3}
+  m_Name: Lvl-12.5
+  m_EditorClassIdentifier: 
+  questionLevel: 12.5
+  question: What is the term for a technique in computer vision that extracts relevant
+    features from an image to analyze its content?
+  questionImage: {fileID: 0}
+  answerA: Segmentation
+  answerB: Edge detection
+  answerC: Feature extraction
+  answerExplanation: Feature extraction is a technique in computer vision that involves
+    extracting relevant features from an image to analyze its content. It aims to
+    identify patterns, shapes, or specific characteristics that can be used for further
+    processing or analysis.
+  answer: 3
+  expectedTimeToAnswer: 17.5

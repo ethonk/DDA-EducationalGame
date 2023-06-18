@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ddcfb159cb17df43b54b04c3acc74b4, type: 3}
+  m_Name: Lvl-13.0
+  m_EditorClassIdentifier: 
+  questionLevel: 13
+  question: In the context of parallel computing, what does the acronym "MPI" stand
+    for?
+  questionImage: {fileID: 0}
+  answerA: Message Passing Interface
+  answerB: Multithreaded Parallelism Interface
+  answerC: Mutual Process Interaction
+  answerExplanation: MPI is a widely used standard in parallel computing that provides
+    a programming interface for communication and coordination among multiple processes
+    or computing nodes. It enables efficient message passing between processes in
+    a parallel application.
+  answer: 1
+  expectedTimeToAnswer: 17.5
